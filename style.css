@@ -1,0 +1,38 @@
+body{
+    background-color: #24545b;
+    font-family: 'Playfair Display', serif;
+}
+h1{
+     margin: 10px auto;
+     text-align: center;
+     font-size: 5em;
+     color: #cbe3b0;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin: 65px auto;
+}
+
+.container .dice{
+    margin: 10px;
+}
+
+.dice h4{
+    text-align: center;
+    color: #cbe3b0;
+}
+img{
+    height: 187px;
+}
+.result{
+    text-align: center;
+    color: #cbe3b0;
+}
+footer
+{
+    color: #cbe3b0;
+    text-align: center;
+    margin-top: 50px;
+}
